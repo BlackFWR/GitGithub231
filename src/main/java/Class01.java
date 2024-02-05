@@ -9,5 +9,8 @@ public class Class01 {
         // versiyon 2
         System.out.println(x*y);
         System.out.println("versiyon 2 tamamlandi");
+
+        //versiyon 3
+        System.out.println(x/y);
     }
 }
