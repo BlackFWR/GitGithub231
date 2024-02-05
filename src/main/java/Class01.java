@@ -5,5 +5,9 @@ public class Class01 {
 
         System.out.println(x+y);
         System.out.println("Versiyon 1 tamamlandi.");
+
+        // versiyon 2
+        System.out.println(x*y);
+        System.out.println("versiyon 2 tamamlandi");
     }
 }
